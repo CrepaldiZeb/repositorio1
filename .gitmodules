@@ -1,0 +1,3 @@
+[submodule "submodulos/repositorio2"]
+	path = submodulos/repositorio2
+	url = https://github.com/CrepaldiZeb/repositorio2.git
